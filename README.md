@@ -1,4 +1,5 @@
-# [Git Basics.](Git.pdf)
+# [Git Basics](Git.pdf)
+# Directory Structure
 ```bash
 git/
 ├── README.md           # Readme file
